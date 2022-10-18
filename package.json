@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sentinellengenharia/example-project/issues"
   },
-  "homepage": "https://github.com/sentinellengenharia/example-project#readme"
+  "homepage": "https://github.com/sentinellengenharia/example-project#readme",
+  "dependencies": {
+    "three": "^0.145.0"
+  }
 }
